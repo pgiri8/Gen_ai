@@ -1,2 +1,2 @@
 # Gen_ai
-gen ai
+this is demo project
